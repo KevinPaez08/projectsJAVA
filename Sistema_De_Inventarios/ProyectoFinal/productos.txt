@@ -1,0 +1,5 @@
+2,Libros,44,200.0,150.0,ken89
+3,CD's,12,13.0,10.0,Robert66
+4,Impresoras,50,1000.0,900.0,alan12
+5,Cafetera,12,13.0,10.0,Juan89
+6,Celulares,12,3500.0,2000.0,Juan89

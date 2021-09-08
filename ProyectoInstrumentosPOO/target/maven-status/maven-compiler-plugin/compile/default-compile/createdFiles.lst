@@ -1,0 +1,10 @@
+Dao\Instrumento.class
+Dao\VentaTotalBD.class
+Dao\CatalogoBD.class
+com\mycompany\Proyecto_Instrumentos\resources\JavaEE8Resource.class
+Config\Conexion.class
+com\mycompany\Proyecto_Instrumentos\JAXRSConfiguration.class
+Dao\Catalogo.class
+Dao\OrdenCompraBD.class
+Dao\InstrumentoBD.class
+Dao\VentaTotal.class

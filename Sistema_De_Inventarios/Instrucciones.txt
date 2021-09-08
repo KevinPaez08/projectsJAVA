@@ -1,0 +1,4 @@
+1°: ejecutar el jframe InicioVentaProductos para iniciar de forma correcta el sistema.
+2°: Si llegara a olvida la constraseña o el nombre de usuario puede buscar en el txt usuarios, 
+	aparece primero el nombre de usuario y después la contraseña.
+
